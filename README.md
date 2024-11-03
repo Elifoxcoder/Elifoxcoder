@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML, CSS, JS, PHP, Webdeveloping and new Project
 - 🌱 I’m currently learning NodeJS and React
 - 📫 How to reach me:
-  # E-Mail: [mail@elifox.ch](mailto:mail@elifox.ch)
+  ### E-Mail: [mail@elifox.ch](mailto:mail@elifox.ch)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 13 Years Old
 - 🎁 Wish: Working at Google
