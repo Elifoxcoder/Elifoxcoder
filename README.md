@@ -4,7 +4,7 @@
 - 📫 How to reach me:
   ### E-Mail: [mail@elifox.ch](mailto:mail@elifox.ch)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 13 Years Old
+- ⚡ 13 Years Old
 - 🎁 Wish: Working at Google
 
 <!---
