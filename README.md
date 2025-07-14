@@ -4,8 +4,8 @@
 - 📫 How to reach me:
   ### E-Mail: [mail@elifox.ch](mailto:mail@elifox.ch)
 - 😄 Pronouns: he/him
-- ⚡ 13 Years Old
-- 🎁 Wish: Working at Google
+- ⚡ 14 Years Old
+- 🎁 Dream: Working at Google
 
 <!---
 Elifoxcoder/Elifoxcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
